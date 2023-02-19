@@ -1,5 +1,5 @@
 ## Titel
-Kubernetes für Entwickler & DevOps (Grundlagen)
+Kubernetes on Edge (Grundlagen)
 
 ## Typ
 Workshop
